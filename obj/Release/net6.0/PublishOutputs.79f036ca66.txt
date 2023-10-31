@@ -1,0 +1,13 @@
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Release\net6.0\publish\projeto web.exe
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Release\net6.0\publish\projeto web.dll
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Release\net6.0\publish\projeto web.deps.json
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Release\net6.0\publish\projeto web.runtimeconfig.json
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Release\net6.0\publish\projeto web.pdb
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Release\net6.0\publish\System.Data.SqlClient.dll
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Release\net6.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Release\net6.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Release\net6.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Release\net6.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Release\net6.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "aOcWcx1FqLeNSd0IQSaVG/y3w4XG/wE+qRGIF0KgrPA=",
+  "Source": "projeto web",
+  "BasePath": "_content/projeto web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "projeto web\\wwwroot",
+      "Source": "projeto web",
+      "ContentRoot": "C:\\Users\\Priscilla\\Desktop\\lh pets\\projeto web\\wwwroot\\",
+      "BasePath": "_content/projeto web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Priscilla\\Desktop\\lh pets\\projeto web\\wwwroot\\index.html",
+      "SourceId": "projeto web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Priscilla\\Desktop\\lh pets\\projeto web\\wwwroot\\",
+      "BasePath": "_content/projeto web",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

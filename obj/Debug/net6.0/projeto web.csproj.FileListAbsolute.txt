@@ -1,0 +1,29 @@
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Debug\net6.0\appsettings.json
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Debug\net6.0\projeto web.staticwebassets.runtime.json
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Debug\net6.0\projeto web.exe
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Debug\net6.0\projeto web.deps.json
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Debug\net6.0\projeto web.runtimeconfig.json
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Debug\net6.0\projeto web.dll
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Debug\net6.0\projeto web.pdb
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Priscilla\Desktop\lh pets\projeto web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Priscilla\Desktop\lh pets\projeto web\obj\Debug\net6.0\projeto web.csproj.AssemblyReference.cache
+C:\Users\Priscilla\Desktop\lh pets\projeto web\obj\Debug\net6.0\projeto web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priscilla\Desktop\lh pets\projeto web\obj\Debug\net6.0\projeto web.AssemblyInfoInputs.cache
+C:\Users\Priscilla\Desktop\lh pets\projeto web\obj\Debug\net6.0\projeto web.AssemblyInfo.cs
+C:\Users\Priscilla\Desktop\lh pets\projeto web\obj\Debug\net6.0\projeto web.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\Desktop\lh pets\projeto web\obj\Debug\net6.0\projeto web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Priscilla\Desktop\lh pets\projeto web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Priscilla\Desktop\lh pets\projeto web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Priscilla\Desktop\lh pets\projeto web\obj\Debug\net6.0\scopedcss\bundle\projeto web.styles.css
+C:\Users\Priscilla\Desktop\lh pets\projeto web\obj\Debug\net6.0\projeto web.csproj.CopyComplete
+C:\Users\Priscilla\Desktop\lh pets\projeto web\obj\Debug\net6.0\projeto web.dll
+C:\Users\Priscilla\Desktop\lh pets\projeto web\obj\Debug\net6.0\refint\projeto web.dll
+C:\Users\Priscilla\Desktop\lh pets\projeto web\obj\Debug\net6.0\projeto web.pdb
+C:\Users\Priscilla\Desktop\lh pets\projeto web\obj\Debug\net6.0\projeto web.genruntimeconfig.cache
+C:\Users\Priscilla\Desktop\lh pets\projeto web\obj\Debug\net6.0\ref\projeto web.dll
